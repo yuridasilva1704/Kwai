@@ -6,6 +6,7 @@ Python instalado na máquina
 
 # Instalação do pyautogui
   - Acessar o CMD do Windows e digitar o seguinte comando
+  -   sasas
   
         pip3 install pyautogui
             
